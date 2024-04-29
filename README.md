@@ -3,6 +3,8 @@
 ### Currently:
 - Living in Brazil - São Carlos SP🏙️ 🇧🇷
 - Graduating in Systems Analysis and Development👨🏻‍💻 at IFSP - São Carlos
+- ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)
+- https://www.linkedin.com/in/pedro-vitor-petrilli-volante-353627258/
 
 ---
 
@@ -11,6 +13,7 @@
 - ![Git](https://img.shields.io/badge/Git-white.svg?style=flat&logo=git&logoColor=black)
 - ![JavaScript](https://img.shields.io/badge/Learning-JavaScript?style=flat&logo=javascript&logoColor=black&label=javascript&labelColor=yellow&color=black)
 - ![ReactJS](https://img.shields.io/badge/Learning-ReactJS?style=flat&logo=react&label=ReactJS&color=red)
+- ![Static Badge](https://img.shields.io/badge/Learning-white?logo=Next.js&label=Next.js&labelColor=black)
 - ![Native Portuguese](https://img.shields.io/badge/Portuguese-Native-blueviolet)
 - ![Advanced English](https://img.shields.io/badge/English-Advanced-informational)
 
