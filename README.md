@@ -3,8 +3,6 @@
 ### Currently:
 - Living in Brazil - São Carlos SP🏙️ 🇧🇷
 - Graduating in Systems Analysis and Development👨🏻‍💻 at IFSP - São Carlos
-- ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)
-- https://www.linkedin.com/in/pedro-vitor-petrilli-volante-353627258/
 
 ---
 
